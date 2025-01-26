@@ -1,0 +1,233 @@
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: "woodmart-font";
+	src: url("../../../themes/woodmart/fonts/woodmart-font-1-400%EF%B9%96v=7.3.4.woff2") format("woff2");
+}
+
+.wd-popup.wd-promo-popup{
+	background-color:#111111;
+	background-image: none;
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-position:left center;
+}
+
+.page-title-default{
+	background-color:#0a0a0a;
+	background-image: none;
+	background-size:cover;
+	background-position:center center;
+}
+
+.footer-container{
+	background-color:#ffffff;
+	background-image: none;
+}
+
+:root{
+--wd-text-font:"lemon milk400", Arial, Helvetica, sans-serif;
+--wd-text-font-weight:400;
+--wd-text-color:#777777;
+--wd-text-font-size:14px;
+}
+:root{
+--wd-title-font:"lemon milk700", Arial, Helvetica, sans-serif;
+--wd-title-font-weight:600;
+--wd-title-color:#242424;
+}
+:root{
+--wd-entities-title-font:"lemon milk500", Arial, Helvetica, sans-serif;
+--wd-entities-title-font-weight:500;
+--wd-entities-title-color:#333333;
+--wd-entities-title-color-hover:rgb(51 51 51 / 65%);
+}
+:root{
+--wd-alternative-font:"lemon milk400", Arial, Helvetica, sans-serif;
+}
+:root{
+--wd-widget-title-font:"lemon milk700", Arial, Helvetica, sans-serif;
+--wd-widget-title-font-weight:600;
+--wd-widget-title-transform:uppercase;
+--wd-widget-title-color:#333;
+--wd-widget-title-font-size:16px;
+}
+:root{
+--wd-header-el-font:"lemon milk400", Arial, Helvetica, sans-serif;
+--wd-header-el-font-weight:400;
+--wd-header-el-transform:uppercase;
+--wd-header-el-font-size:13px;
+}
+:root{
+--wd-primary-color:rgb(32,196,244);
+}
+:root{
+--wd-alternative-color:rgb(205,26,74);
+}
+:root{
+--wd-link-color:#333333;
+--wd-link-color-hover:#242424;
+}
+:root{
+--btn-default-bgcolor:rgb(32,196,244);
+}
+:root{
+--btn-default-bgcolor-hover:rgb(32,196,244);
+}
+:root{
+--btn-accented-bgcolor:rgb(32,196,244);
+}
+:root{
+--btn-accented-bgcolor-hover:rgb(32,196,244);
+}
+:root{
+--notices-success-bg:#459647;
+}
+:root{
+--notices-success-color:#fff;
+}
+:root{
+--notices-warning-bg:#E0B252;
+}
+:root{
+--notices-warning-color:#fff;
+}
+
+	:root{
+					
+			
+							--wd-form-brd-radius: 0px;
+					
+					--wd-form-brd-width: 2px;
+		
+					--btn-default-color: #fff;
+		
+					--btn-default-color-hover: #fff;
+		
+					--btn-accented-color: #fff;
+		
+					--btn-accented-color-hover: #fff;
+		
+					
+			
+			
+							--btn-default-brd-radius: 5px;
+				--btn-default-box-shadow: none;
+				--btn-default-box-shadow-hover: none;
+					
+					
+			
+			
+							--btn-accented-brd-radius: 5px;
+				--btn-accented-box-shadow: none;
+				--btn-accented-box-shadow-hover: none;
+					
+							
+					--wd-brd-radius: 0px;
+		
+			}
+
+	
+	
+			:root{
+			--wd-container-w: 1222px;
+		}
+	
+			@media (min-width: 1239px) {
+			.platform-Windows .wd-section-stretch > .elementor-container {
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
+		@media (min-width: 1222px) {
+			html:not(.platform-Windows) .wd-section-stretch > .elementor-container {
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
+	
+	
+	
+	
+	
+			.woodmart-woocommerce-layered-nav .wd-scroll-content {
+			max-height: 223px;
+		}
+	
+	
+@font-face {
+	font-family: "lemon milk300";
+	src: url("../05/LEMON-MILK-Light.woff2") format("woff2"), 
+url("../05/LEMON-MILK-Light.woff") format("woff");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "lemon milk700";
+	src: url("../05/LEMON-MILK-Bold.woff2") format("woff2"), 
+url("../05/LEMON-MILK-Bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "lemon milk500";
+	src: url("../05/LEMON-MILK-Medium.woff2") format("woff2"), 
+url("../05/LEMON-MILK-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "lemon milk400";
+	src: url("../05/LEMON-MILK-Regular.woff2") format("woff2"), 
+url("../05/LEMON-MILK-Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+
+/* هاور عکس های اعضای تیم */
+.ourTeam img.attachment-200x200.size-200x200 {
+    border-radius: 100%;
+    transition: .1s;
+}
+.ourTeam img.attachment-200x200.size-200x200:hover {
+    border: 5px solid #cd1a4a;
+}
+/* فرم ارتباط نمایندگان */
+.myForm1 input:not(.button), .myForm1 textarea, .myForm2 input:not(.button), .myForm2 textarea,.myForm3 textarea, .myForm3 input:not(.button)  {
+	border-radius:12px;
+  padding-left:10px!important;
+	border:1px solid #b4b4b4;
+}
+#input_1_8 {
+	border:none!important;
+}
+.myForm1 .button, .myForm2 .button, .myForm3 .button {
+	border-radius:12px;
+	color:#fff;
+	background-color:#20C4F4;
+}
+/* فونت های اسلایدر رولوشن */
+.myFontRev, .myRevTiltle {
+    font-family: 'lemon milk700' !important;
+}
+.myRevTiltle2 {
+	font-family: 'lemon milk300' !important;
+}
+/*  */
+.myIcons {
+	margin-right:20px!important;
+	color:#fff!important;
+	background-color:#20C4F4!important;
+	border-radius:50%!important;
+	padding:8px!important;
+}
+.myBtn {
+	z-index:9999!important;
+}
+/* حذف افزودن به سبد خرید */
+p.price, .woocommerce-variation-add-to-cart.variations_button.woocommerce-variation-add-to-cart-disabled, span.sku_wrapper, .woocommerce-variation-add-to-cart.variations_button.woocommerce-variation-add-to-cart-enabled, .wd-buttons.wd-pos-r-t, span.price, .price {
+	display:none!important;
+}

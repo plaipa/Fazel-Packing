@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scoop Archives - Monster Ice Cream</title>
+	<atom:link href="https://monsterbastani.com/product-category/scoop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://monsterbastani.com/product-category/scoop/</link>
+	<description>A delicious monster</description>
+	<lastBuildDate>Wed, 29 May 2024 08:24:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://monsterbastani.com/wp-content/uploads/2024/05/cropped-logop-4-1-32x32.webp</url>
+	<title>Scoop Archives - Monster Ice Cream</title>
+	<link>https://monsterbastani.com/product-category/scoop/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Scoop Ice Cream</title>
+		<link>https://monsterbastani.com/product/scoop-ice-cream/</link>
+		
+		<dc:creator><![CDATA[admin icecream]]></dc:creator>
+		<pubDate>Wed, 29 May 2024 07:45:39 +0000</pubDate>
+				<guid isPermaLink="false">https://demotarino.ir/monsterbastani/?post_type=product&#038;p=596</guid>
+
+					<description><![CDATA[<p>The post <a href="https://monsterbastani.com/product/scoop-ice-cream/">Scoop Ice Cream</a> appeared first on <a href="https://monsterbastani.com">Monster Ice Cream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="https://monsterbastani.com/product/scoop-ice-cream/">Scoop Ice Cream</a> appeared first on <a href="https://monsterbastani.com">Monster Ice Cream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
